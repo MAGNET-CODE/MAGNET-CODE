@@ -15,10 +15,4 @@ With extensive experience in front-end development, I specialize in creating dyn
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MAGNET-CODE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MAGNET-CODE&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MAGNET-CODE&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
